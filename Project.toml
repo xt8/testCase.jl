@@ -1,0 +1,13 @@
+name = "testCase"
+uuid = "f88273b0-9d30-403d-ab13-6a79ad9743cd"
+authors = ["xt8"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
